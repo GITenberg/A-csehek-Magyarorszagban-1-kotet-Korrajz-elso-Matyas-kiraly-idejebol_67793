@@ -1,0 +1,49 @@
+_repo: A-csehek-Magyarorszagban-1-kotet-Korrajz-elso-Matyas-kiraly-idejebol_67793
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+  illustrator:
+    agent_name: Kimnach, László
+    gutenberg_agent_id: '54460'
+    url: http://www.gutenberg.org/2009/agents/54460
+creator:
+  author:
+    agent_name: Jósika, Miklós, báró
+    aliases:
+    - Josika, Miklos, baro
+    - Jósika, Nikolas, Baron
+    - Jósika, Nikolaus, báró
+    - Jósika, Nicolas, báró
+    deathdate: 1865
+    gutenberg_agent_id: '38140'
+    url: http://www.gutenberg.org/2009/agents/38140
+    wikipedia: http://hu.wikipedia.org/wiki/J%C3%B3sika_Mikl%C3%B3s
+description: ''
+gutenberg_issued: '2022-04-07'
+identifiers:
+  gutenberg: '67793'
+language: hu
+pgterms:marc905: 20220402020236jsika
+pgterms:marc906: '1905'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A csehek Magyarországban (1. kötet): Korrajz első Mátyás király idejéből'
+url: http://www.gutenberg.org/ebooks/67793
